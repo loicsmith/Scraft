@@ -17,6 +17,13 @@ En cas de problème/questions, vous pouvez me contactez sur discord : loicsmith 
 
 ## Fonctionnalités 
 
+- possibilité de pouvoir poser un ou plusieurs points de craft
+- possibilité de pouvoir gérer ces points
+- Pouvoir ajouter, modifier, supprimer une recette / définir le produit donné après fabrication
+- Pouvoir importer une recette sur un point bleu
+- Pouvoir définir un temps de fabrication de l'item
   
 ## Commandes
+
+/scraft (ou touche AAMenu, catégorie administration): permet d'ouvrir le menu. (il est nécessaire d'être administrateur niveau 5)
 
